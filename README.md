@@ -40,11 +40,3 @@ The API provides full management for the `/users` resource.
 | **Delete** | `DELETE` | `/users/<id>` | Deletes a user by ID. | `204 No Content` / `404 Not Found` [cite: 18] |
 
 ***
-
-## 🧪 Testing with cURL (Client Examples)
-
-Use a separate terminal window while the server is running to execute these tests.
-
-### 1. GET (Read All)
-```bash
-curl [http://127.0.0.1:5000/users](http://127.0.0.1:5000/users)
