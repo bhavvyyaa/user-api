@@ -1,4 +1,4 @@
-# Python Developer Internship - Task 4: REST API for User Management
+# REST API for User Management
 
 ## 🎯 Objective
 This project implements a complete **RESTful API** using the **Flask** micro-framework to manage user data (CRUD operations: Create, Read, Update, Delete) using an in-memory Python list.
