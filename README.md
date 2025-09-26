@@ -4,10 +4,10 @@
 This project implements a complete **RESTful API** using the **Flask** micro-framework to manage user data (CRUD operations: Create, Read, Update, Delete) using an in-memory Python list.
 
 ## 🛠️ Tools and Key Concepts
-* [cite_start]**Language/Framework:** Python, Flask[cite: 5].
-* [cite_start]**Testing Tools:** cURL or Postman[cite: 5].
-* **Key Concepts:** REST, HTTP Methods (GET, POST, PUT, DELETE), JSON.
-* [cite_start]**Storage:** Users are stored in an in-memory list/dictionary[cite: 9].
+**Language/Framework:** Python, Flask.
+**Testing Tools:** cURL or Postman.
+**Key Concepts:** REST, HTTP Methods (GET, POST, PUT, DELETE), JSON.
+*  **Storage:** Users are stored in an in-memory list/dictionary.
 
 ***
 
